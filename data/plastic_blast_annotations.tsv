@@ -1,0 +1,30 @@
+Compound type	Compound	Gene ID	Gene	Protein	Name
+Alkanes	PS	AtRMS-02_contig_1_2425	alkB	AlkB	Alkane-1 monooxygenase
+Alkanes	Finnerty_pathway	AtRMS-02_contig_1_1319	alkMa	AlkMa	alkane hydroxylase A
+Alkanes	Terminal/biterminal_oxidation	AtRMS-02_contig_1_1955	rubA	RubA	Rubredoxin
+Alkanes	Finnerty_pathway	AtRMS-02_contig_1_1161	ahpC	AhpC	Alkyl hydroperoxide reductase C
+Alkanes	Finnerty_pathway	AtRMS-02_contig_1_35	ahpC	AhpC	Alkyl hydroperoxide reductase C
+Alkanes	Hydrocarbon_uptake	AtRMS-02_contig_1_914	alkN_mcp	AlkN_mcp	methyl-accepting chemotaxis protein
+Alkanes	Terminal/biterminal_oxidation	AtRMS-02_contig_1_532	almA	AlmA	Probable FAD-binding monooxygenase AlmA
+Alkanes	Auxiliar_alkane_gene	AtRMS-02_contig_1_193	ssuD	SsuD	Alkanesulfonate monooxygenase
+Alkanes	Finnerty_pathway	AtRMS-02_contig_1_1097	ahpF	AhpF	Alkyl hydroperoxide reductase subunit F
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1395	catC	CatC	muconolactone Delta-isomerase
+Aromatics	Benzoate_degradation	AtRMS-02_contig_1_1389	benD	BenD	1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase
+Aromatics	Protocatechuate_degradation	AtRMS-02_contig_1_1726	pcaI	PcaI	3-oxoadipate CoA-transferase subunit A
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1394	catA	CatA	Catechol 1,2-dioxygenase 2
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1932	catA	CatA	Catechol 1,2-dioxygenase 2
+Aromatics	Benzoate degradation	AtRMS-02_contig_1_1392	benA	BenA	Benzoate 1,2-dioxygenase subunit alpha
+Aromatics	Benzoate degradation	AtRMS-02_contig_1_1391	benB	BenB	Benzoate 1,2-dioxygenase subunit beta
+Aromatics	Benzoate degradation	AtRMS-02_contig_1_1390	benC	BenC	Benzoate 1,2-dioxygenase electron transfer component
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1396	catB	CatB	Muconate cycloisomerase 1
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1386	pcaJ	PcaJ	3-oxoadipate CoA-transferase subunit B
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1727	pcaJ	PcaJ	3-oxoadipate CoA-transferase subunit B
+Aromatics	Phenol_degradation	AtRMS-02_contig_1_1936	dmpM	DmpM	Phenol hydroxylase P2 protein
+Aromatics	Phenol_degradation	AtRMS-02_contig_1_1935	dmpN	DmpN	Phenol hydroxylase P3 protein
+Aromatics	Phenol_degradation	AtRMS-02_contig_1_1933	dmpP	DmpP	Phenol hydroxylase P5 protein
+Aromatics	Biphenyl_degradation	AtRMS-02_contig_1_2338	bphI	BphI	4-hydroxy-2-oxovalerate aldolase 4
+Aromatics	Protocatechuate_degradation	AtRMS-02_contig_1_1387	pcaI	PcaI	Aromatics PCAI_PSEPU 3-oxoadipate CoA-transferase subunit A
+Aromatics	Homoprotocatechuate_degradation	AtRMS-02_contig_1_1287	hpcH	HpcH	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+Aromatics	Catechol_degradation	AtRMS-02_contig_1_1385	pcaF	PcaF	Beta-ketoadipyl-CoA thiolase
+Aromatics	Biphenyl_degradation	AtRMS-02_contig_1_2339	bphX2	BphX2	Acetaldehyde dehydrogenase 2
+Plastics	PBAT	AtRMS-02_contig_1_1965	est	Est	Polyesterase
